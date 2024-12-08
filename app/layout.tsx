@@ -21,7 +21,7 @@ export const metadata: Metadata = {
 const Footer = () => {
   return (
     <a href="index.html">
-    <img src={`assets/images/logo-dark.png`} className="h-8"/>
+    <img src={`/assets/images/logo-dark.png`} className="h-8"/>
     </a>
   )
 }
